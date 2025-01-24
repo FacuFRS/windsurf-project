@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plataforma de Servicios Digitales Educativos
 
 Marketplace de contenido educativo digital que permite a creadores vender sus cursos, ebooks y recursos educativos.
@@ -38,3 +39,7 @@ npm run dev
 ├── lib/           # Utilidades y configuraciones
 └── api/           # API routes
 ```
+=======
+# windsurf-project
+Marketplace de contenido educativo digital
+>>>>>>> c463b46b4a92c5b877d4c7bdd703c49075959b61
