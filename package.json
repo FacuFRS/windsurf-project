@@ -1,0 +1,47 @@
+{
+  "name": "edu-marketplace",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "ethers": "^5.7.2",
+    "next": "13.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "@types/react": "^18.2.7",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.0.4"
+  },
+  "description": "Marketplace de contenido educativo digital que permite a creadores vender sus cursos, ebooks y recursos educativos.",
+  "main": "hardhat.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TU_USUARIO/windsurf-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TU_USUARIO/windsurf-project/issues"
+  },
+  "homepage": "https://github.com/TU_USUARIO/windsurf-project#readme"
+}
